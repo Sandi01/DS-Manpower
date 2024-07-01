@@ -8170,7 +8170,9 @@ select {
 .tp-contact-form-field.select-field-arrow::after {
   color: #7f8080;
 }
-
+.marginAuto {
+  margin: auto;
+}
 @media (max-width: 767px) {
   .tp-contact-area h2 br {
     display: none;
